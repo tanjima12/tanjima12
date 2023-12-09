@@ -3,7 +3,7 @@
 ![Font End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 My name is Tanjima Akter.I am Font End Developer.I am studying Computer Science And Engineering in Dhaka City College
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra&theme=dark)](https://github.com/KasRoudra/stats-card)
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=tanjima12)](https://github.com/KasRoudra/stats-card)
 
 
 Skills: REACT / JS / HTML / CSS/Tailwind
