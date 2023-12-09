@@ -13,4 +13,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjima12&theme=radical)
 
+### Current Stats
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=radical)
