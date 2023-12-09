@@ -16,12 +16,12 @@ I am a CSE student diving into web development, mastering MongoDB, React.js, Nod
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjima12&theme=dracula)
 
+<p >
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=2077" alt="GitHub Streak" /></a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,react,html,js,css,tailwind,express,git,firebase,mongo" />
   </a>
-</p>
-
-<p align="center">
-<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=2077" alt="GitHub Streak" /></a>
 </p>
