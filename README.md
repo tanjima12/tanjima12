@@ -10,6 +10,7 @@ I am a CSE student diving into web development, mastering MongoDB, React.js, Nod
 
 - 🔭 I’m working on Frontend Now
 - 🌱 I’m currently learning Backend
+- i am exploring next js
 
 ### Profile details card
 
@@ -19,4 +20,8 @@ I am a CSE student diving into web development, mastering MongoDB, React.js, Nod
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,react,html,js,css,tailwind,express,git,firebase,mongo" />
   </a>
+</p>
+
+<p align="center">
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=2077" alt="GitHub Streak" /></a>
 </p>
