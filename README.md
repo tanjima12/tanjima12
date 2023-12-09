@@ -1,5 +1,6 @@
 ### Hey! Welcome! 👋I am Tanjima Akter
 
+<img src="https://raw.githubusercontent.com/tanjima12/tanjima12/main/12295559_4949811.jpg">
 - 🔭 I’m working on Font End Now
 - 🌱 I’m currently learning Backend
 
@@ -7,4 +8,6 @@
 
 ### Profile details card
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjima12&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjima12&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=radical)
