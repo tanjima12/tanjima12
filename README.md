@@ -1,14 +1,16 @@
-# Hey! Welcome! 👋I am Tanjima Akter 👋
+#Hi there 👋, I am Tanjima Akter 👋
+#### Font End Developer
+![Font End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-**tanjima12/tanjima12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tanjima Akter.I am Font End Developer.I am studying Computer Science And Engineering in Dhaka City College
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS/Tailwind
 
-- 🔭 I’m working on Font End Now
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Font End 
+- 🌱 I’m currently learning BackEnd 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tanjima12)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tanjima12&show_icons=true)  
+
