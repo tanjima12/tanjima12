@@ -9,8 +9,12 @@
 
 ### Profile details card
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanjima12&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanjima12&theme=radical)](https://git.io/streak-stats)
 
 ### Current Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjima12&theme=monokai)
+
+###Language
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjima12&theme=radical)
